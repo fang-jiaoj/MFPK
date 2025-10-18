@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[lfs]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = git@github.com:fang-jiaoj/MFPK.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
