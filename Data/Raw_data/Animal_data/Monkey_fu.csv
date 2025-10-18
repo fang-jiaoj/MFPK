@@ -1,0 +1,196 @@
+Molecule_Name,Smiles,monkey_fup,Source
+CHEMBL4544881,Cc1cn2cc(-c3cc(=O)n4cc(N5CCN(C)CC5)ccc4n3)cc(F)c2n1,0.18,CHEMBL 35
+CHEMBL472,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,0.0000179,CHEMBL 35
+CHEMBL5422616,CNc1cc(Nc2cccn(-c3ccccn3)c2=O)nc2c(C(=O)N[C@H]3CC[C@@H]3OC)cnn12,0.23,CHEMBL 35
+CHEMBL383634,COc1ccc2c(c1)C(=O)N(CCc1ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc1)C(=O)C2(C)C,0.000015,CHEMBL 35
+CHEMBL5199558,Cc1ccc2c(=O)[nH]c(-c3ccc(C(C)(C)O)cc3)cn12,0.21,CHEMBL 35
+CHEMBL4459971,CCc1nc(C)cn2nc(-c3cc(=O)n4cc(C5CCN(C)CC5)cc(C)c4n3)cc12,0.16,CHEMBL 35
+CHEMBL1951143,CCCCc1nc(C)c(CC(=S)N(C)C)c(=O)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1,0.000177,CHEMBL 35
+CHEMBL4279521,Cc1nn(-c2cnc(OCC(C)C)c(Cl)c2)c2ccc(C(=O)NS(C)(=O)=O)cc12,0.00002,CHEMBL 35
+CHEMBL1834206,O=C(O)[C@@H]1CCC[C@H]1C(=O)c1ccc(-c2ccc(Nc3nc4ccc(F)cc4s3)c(F)c2)cc1,0.000014,CHEMBL 35
+CHEMBL4744041,Cc1cc(-c2ccnc(Nc3cnn(C)c3)n2)ccc1CNC(=O)N1CC(OC(C)C)C1,0.0362,CHEMBL 35
+CHEMBL4439573,Fc1cc2nc(-c3cncnc3C(F)(F)F)n(C3CC3)c2cc1F,0.16,CHEMBL 35
+CHEMBL4218854,CNC(=O)c1nnc2ccc(-c3ccc(OCCCN(C)C)nc3)cc2c1N[C@@H](C)C1CCOCC1,0.21,CHEMBL 35
+CHEMBL3933749,Cc1c([C@@H]2CN3CCN(C(=O)Cc4ccc(-n5cnnn5)cn4)C[C@H]3CO2)ccc(F)c1C#N,0.6,CHEMBL 35
+CHEMBL4873599,Cc1nc2c([C@H](C)c3ccc(C(F)(F)F)c(F)c3)nn(CCO)c2c(=O)[nH]1,0.035,CHEMBL 35
+CHEMBL5394700,COc1ncc(C(=O)N2CCN(C(=O)/C=C/c3ccc4c(c3)OC(F)(F)O4)CC2)cn1,0.293,CHEMBL 35
+CHEMBL4785223,Cc1ccc(S(=O)(=O)NCCc2ccc(Oc3ccc(F)c(F)c3)cc2)cc1C(=O)O,0.0000107,CHEMBL 35
+CHEMBL5198935,CCCC1CNCc2c1[nH]c(=O)c(C#N)c2N1CCC2(CC1)CC2.Cl,0.42,CHEMBL 35
+CHEMBL4297600,NC(=O)c1ccn(-c2cnc(NC[C@]3(c4ncccc4F)C[C@H](F)C3)nc2)c1,0.49,CHEMBL 35
+CHEMBL5095169,CO[C@@H]1CCN(c2nccc(Nc3cc4c(C(C)C)ccc(N5C[C@H](CS(C)(=O)=O)[C@H]5C)c4cn3)n2)C[C@@H]1F,0.035,CHEMBL 35
+CHEMBL4851021,C=CC(=O)N1CC[C@@H](NC(=O)c2sc3nccc4c3c2NC(=O)N4c2ccc(Oc3ccccc3)cc2C)C1,0.0025,CHEMBL 35
+CHEMBL4282052,CCOc1cc(CN2CCC3(CC2)CC(=O)N(c2ccc(C(=O)O)cc2)C3)cc(OCC)c1-c1ccc(F)cc1.O=C(O)C(F)(F)F,0.054,CHEMBL 35
+CHEMBL4871796,Cc1nc2c([C@H](C)c3ccc(C(C)(C)C)cc3)nn(CCF)c2c(=O)[nH]1,0.016,CHEMBL 35
+CHEMBL4175981,CC(C)(C)[C@@H](CO)NC(=O)c1nn(-c2c[n+]([O-])ccn2)c2c1C[C@@H]1C[C@H]21,0.1,CHEMBL 35
+CHEMBL4641359,Cn1cc(C(=O)N2CC3(C2)CN(c2cncc(N4C(=O)c5ccc(Cl)cc5C4(C)C)c2)C3)cn1,0.036,CHEMBL 35
+CHEMBL154,COc1ccc2cc([C@H](C)C(=O)O)ccc2c1,0.0000326,CHEMBL 35
+CHEMBL1201753,O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1,0.000263,CHEMBL 35
+CHEMBL4097165,O=C1NC(=O)[C@](CNC(=O)c2cc3cc(C(F)(F)F)ccc3o2)(C2CC2)N1,0.229,CHEMBL 35
+CHEMBL1496,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1/C=C/[C@@H](O)C[C@@H](O)CC(=O)O,0.00155,CHEMBL 35
+CHEMBL1933350,CCC[C@H](c1ccc(C(=O)NCCC(=O)O)cc1)[C@H](c1ccc(Cl)cc1)c1c[nH]c2c(F)cc(C)cc12,0.0000023,CHEMBL 35
+CHEMBL139,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,0.000047,CHEMBL 35
+CHEMBL280481,CN(C)C(=O)CCS[C@H](SCCC(=O)O)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1,0.0000116,CHEMBL 35
+CHEMBL4217549,C[C@H](Nc1c(C(N)=O)nnc2ccc(-c3ccc(OCCCN(C)C)nc3)cc12)C1CCOCC1,0.46,CHEMBL 35
+CHEMBL5429440,CC[C@@H]1C(=O)N(C)c2cnc(Nc3cc4c(cc3OC)N(C(=O)CN3C[C@@H](C)N[C@@H](C)C3)CC4)nc2N1C1CCCC1,0.0829,CHEMBL 35
+CHEMBL4743437,C[C@H](Nc1nc(Cl)nc2c1cnn2[C@@H]1O[C@H](COP(=O)(O)CP(=O)(O)O)[C@@H](O)[C@H]1O)c1ccccc1,0.002,CHEMBL 35
+CHEMBL4761506,C[C@H](Nc1cc(Cl)nc2c1cnn2[C@@H]1O[C@H](COP(=O)(O)CP(=O)(O)O)[C@@H](O)[C@H]1O)c1ccc(F)cc1,0.0034,CHEMBL 35
+CHEMBL5401381,CC[C@@H]1C(=O)N(C)c2cnc(Nc3cc4c(cc3OC)N(C(=O)CN3CCN(S(C)(=O)=O)CC3)CC4)nc2N1C1CCCC1,0.0398,CHEMBL 35
+CHEMBL138225,CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC=C4C=C(C(=O)O)CC[C@]4(C)[C@H]3CC[C@]12C,0.0000917,CHEMBL 35
+CHEMBL3892956,Cc1ccc(CN2CC[C@@H](N3CC[C@@H](c4ccc(O)cc4)[C@H](F)C3)C2=O)cc1,0.11,CHEMBL 35
+CHEMBL5089410,CC(C)C[C@](C)(N)COc1ccc(-c2ccnc(C(F)F)c2)nc1C(F)F,0.053,CHEMBL 35
+CHEMBL5176104,N=C1N[C@H]2[C@H](CN3C(=O)CCC3=O)NC(=N)N3C[C@H](NC(=O)c4cccc5c4CCCC5)C(O)(O)[C@]23N1,0.27,CHEMBL 35
+CHEMBL957,COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)nc(-c2ncccn2)nc1OCCO,0.000422,CHEMBL 35
+CHEMBL4647543,CCS(=O)(=O)N1CC(Oc2cncc(N3C(=O)c4ccc(Cl)cc4C3(C)C)c2)C1,0.138,CHEMBL 35
+CHEMBL4097569,Cc1cnc(C(=O)N[C@H]2CCOC[C@@H]2O)cc1Cc1ccc(-c2cscn2)cc1,0.00032,CHEMBL 35
+CHEMBL5094715,C[C@@H](c1cc(Cl)cc(Cl)c1)N1CCC(COc2cc(F)c(C(=O)NS(C)(=O)=O)cc2C2CC2)CC1,0.00129,CHEMBL 35
+CHEMBL5085580,CC(O)c1cn(CCNc2nonc2/C(=N/O)Nc2ccc(F)c(Br)c2)nn1,0.0371,CHEMBL 35
+CHEMBL4474855,CC[C@@H]1[C@@H]2CN(C(=O)[C@H](C(C)(C)C)NC(=O)O[C@@H]3C[C@H]3CCCCC(F)(F)c3nc4ccc(OC)cc4nc3O2)[C@@H]1C(=O)N[C@]1(C(=O)NS(=O)(=O)C2(C)CC2)C[C@H]1C(F)F,0.0091,CHEMBL 35
+CHEMBL4758823,CC1(C)C(=O)Nc2nc(-n3nc(CCC(F)(F)F)c4cc(Cl)ccc43)nc(N)c21,0.006,CHEMBL 35
+CHEMBL3407547,COc1ccccc1[C@H](Cn1c(=O)n(C(C)(C)C(=O)O)c(=O)c2c(C)c(-c3ncco3)sc21)OC1CCOCC1,0.000284,CHEMBL 35
+CHEMBL550781,CCCCCN(CCCOC)C(=O)[C@@H](CCC(=O)O)NC(=O)c1ccc(Cl)c(Cl)c1,0.0000771,CHEMBL 35
+CHEMBL1207972,O=C(O)c1cccc(Cc2cc(Cl)ccc2OCc2ccc(Cl)cc2F)n1,0.0000288,CHEMBL 35
+CHEMBL1017,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1,0.000125,CHEMBL 35
+CHEMBL5427131,CC[C@@H](C(=O)Nc1ccc(C(N)=O)c(F)c1)n1cc(OC)c(-c2cc(Cl)ccc2-n2cc(C(F)(F)F)nn2)cc1=O,0.062,CHEMBL 35
+CHEMBL3891221,O=C(O)c1c[nH]c2cc(Cl)c(-c3ccc(C4(O)CCC4)cc3)cc12,0.032,CHEMBL 35
+CHEMBL1144,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(=O)O)[C@H]21,0.00649,CHEMBL 35
+CHEMBL1073,Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1,0.000138,CHEMBL 35
+CHEMBL1069,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1)[C@H](C(=O)O)C(C)C,0.000145,CHEMBL 35
+CHEMBL4746805,Cc1cc(O[C@H](CCC(F)(F)F)c2ccc(C(=O)NCCC(=O)O)cc2)cc(C)c1-c1ccc(C(C)(C)C)cc1,5.60E-07,CHEMBL 35
+CHEMBL5288931,Cc1ncc(-c2nc3c(OC4(C)CC4)nc(Nc4cnn(C5CCN(C)CC5)c4)nc3cc2F)cn1,0.33,CHEMBL 35
+CHEMBL5314924,Cc1ccc([C@H]2C[C@@H]2COc2cc(NCc3nnc(C)s3)nc(C)n2)nc1,0.087,CHEMBL 35
+CHEMBL5410211,CNc1cc[n+](CCNC(=O)c2ccn3c(-c4c(C)noc4C)cnc3c2)cc1.[Cl-],0.92,CHEMBL 35
+CHEMBL5085562,Cc1cccc(-c2ccc(/C=C/[C@@H]3[C@@H]4[C@@H](C)OC(=O)[C@]4(O)CC(F)(F)[C@H]3C)nc2)c1C#N,0.02,CHEMBL 35
+CHEMBL5081315,C[C@H]1OC(=O)[C@]2(N)CC(F)(F)[C@@H](C)[C@H](/C=C/c3ccc(-c4ccccc4C#N)cn3)[C@H]12,0.15,CHEMBL 35
+CHEMBL1477,COCc1c(C(C)C)nc(C(C)C)c(/C=C/[C@@H](O)C[C@@H](O)CC(=O)O)c1-c1ccc(F)cc1,0.000153,CHEMBL 35
+CHEMBL4573938,COc1ccc(-c2c(Nc3ccccn3)[nH]c3c(C4=CCCCC4)c(-c4ccccc4)nn3c2=O)cc1,0.011,CHEMBL 35
+CHEMBL3984425,C[C@H](NC(=O)c1c(N)nn2cccnc12)c1cc2cccc(C#Cc3cnn(C)c3)c2c(=O)n1-c1ccccc1,0.04,CHEMBL 35
+CHEMBL5435085,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(-c4noc(CN5CCCNCC5)n4)cc3OC)nc2N1C1CCCC1,0.0077,CHEMBL 35
+CHEMBL4464990,O=S(=O)(Nc1ccncn1)c1cc2c(cc1F)[C@@H](N1CC[C@H](C(F)(F)F)C[C@@H]1c1ccccn1)CCO2,0.028,CHEMBL 35
+CHEMBL5419663,CCC[C@@H](CCO)Nc1nc(N)nc2cnn(Cc3ccc(CNC4CCOCC4)cc3OC)c12,0.31,CHEMBL 35
+CHEMBL3961833,COc1nc(N(CC(C)(C)F)c2cc(Cl)c(F)cc2F)cnc1C(=O)[C@H]1C[C@@H]1C(=O)O,0.03,CHEMBL 35
+CHEMBL5083414,NC(=O)[C@@H]1C[C@H](F)CN1Cc1ccc(OCc2cccc(F)c2)cc1,0.0407,CHEMBL 35
+CHEMBL5088392,CCNC(=O)N1C[C@H]2[C@H](C)[C@@H](C)[C@H](/C=C/c3ccc(-c4ccccc4C#N)cn3)[C@@H]3[C@@H](C)OC(=O)[C@@]32C1,0.06,CHEMBL 35
+CHEMBL4470860,Cc1nc2c(-c3nnc[nH]3)cc(-c3ccnc(N)c3F)cc2n1-c1ccnc2c(F)ccc(F)c12,0.062,CHEMBL 35
+CHEMBL4249790,O=C(O[C@@H]1O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]1O)c1c[nH]c2cc(Cl)c(-c3ccc(C4(O)CCC4)cc3)cc12,0.028,CHEMBL 35
+CHEMBL4560579,C#CCOc1cnc(C(=O)Nc2cc(F)c(F)c([C@@]3(C)N=C(N)S[C@@]4(COC)C[C@H]43)c2)cn1,0.061,CHEMBL 35
+CHEMBL3358158,Cn1ccnc1[C@]1(CNC(=O)c2cc3cc(C(F)(F)F)ccc3o2)NC(=O)NC1=O,0.248,CHEMBL 35
+CHEMBL2325014,Nc1[nH]ncc1-c1cc(Cl)ccc1Oc1cc(F)c(S(=O)(=O)Nc2cscn2)cc1Cl,0.0000164,CHEMBL 35
+CHEMBL5206366,C=CC(=O)N[C@H]1CCC[C@H]1NC(=O)c1sc2nccc3c2c1NC(=O)N3[C@@H]1CN=C(CC(C)C)C=C1C,0.032,CHEMBL 35
+CHEMBL5083772,Cn1cc(Nc2nccc(-c3ccc4c(c3)CN(C3COC3)CC[C@H]4NC(=O)c3cn(C(C)(C)C)nn3)n2)cn1,0.19,CHEMBL 35
+CHEMBL5430344,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(-c4noc(CN5CCNCC5)n4)cc3OC)nc2N1C1CCCC1,0.0209,CHEMBL 35
+CHEMBL3891221,O=C(O)c1c[nH]c2cc(Cl)c(-c3ccc(C4(O)CCC4)cc3)cc12,0.00032,CHEMBL 35
+CHEMBL4217988,N#Cc1cc(S(=O)(=O)Nc2ncns2)ccc1Oc1ccc(-c2cccc(C(F)(F)F)c2)cc1-c1ccnc(CNCCC2CCNCC2)c1,0.001,CHEMBL 35
+CHEMBL5199698,CC(C)C[C@](C)(N)COc1cnc(-c2ccnc(C(F)F)c2)cc1C(F)F,0.075,CHEMBL 35
+CHEMBL2165620,O=C(O)c1ccc(NC(=O)[C@H](CC2CCCC2)n2cnc(C(F)(F)F)c2)nc1,0.0011,CHEMBL 35
+CHEMBL4520499,Cc1cn2cc(-c3cc(=O)n4cc(N5CCN(C)CC5)ccc4n3)cc(C)c2n1,0.08,CHEMBL 35
+CHEMBL513909,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(C(=O)NC4CCN(C)CC4)cc3OC)nc2N1C1CCCC1,0.0936,CHEMBL 35
+CHEMBL5405569,CNc1cc(Nc2cccn(-c3ncccc3F)c2=O)nc2c(C(=O)N[C@@H]3C[C@@H]3F)cnn12,0.14,CHEMBL 35
+CHEMBL469,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,0.000148,CHEMBL 35
+CHEMBL258734,CC(C)(C)OC(=O)N[C@H]1CCCCC/C=C\[C@@H]2C[C@@]2(C(=O)NS(=O)(=O)C2CC2)NC(=O)[C@@H]2C[C@@H](OC(=O)N3Cc4cccc(F)c4C3)CN2C1=O,0.00085,CHEMBL 35
+CHEMBL1513,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1,0.000126,CHEMBL 35
+CHEMBL914,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0.00301,CHEMBL 35
+CHEMBL521,CC(C)Cc1ccc(C(C)C(=O)O)cc1,0.0000784,CHEMBL 35
+CHEMBL3986824,Nc1cncc(-c2cn3ccnc3c(Nc3ccc(N4CCN(C5COC5)CC4)cc3)n2)n1,0.322,CHEMBL 35
+CHEMBL4797139,FC(F)(F)c1nccc2cc(Nc3n[nH]c4ncccc34)ccc12,0.016,CHEMBL 35
+CHEMBL787,CC(C)(O)c1ccccc1CC[C@@H](SCC1(CC(=O)O)CC1)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1,0.00004,CHEMBL 35
+CHEMBL4567446,COc1cc(C(=O)N2CCC3(CC2)CC(=O)c2c(cnn2C(C)C)C3)cc(-c2ccc(C(=O)O)cc2)n1,0.00956,CHEMBL 35
+CHEMBL282686,CCO[C@@H](Cc1ccc(OCCc2ccc(OS(C)(=O)=O)cc2)cc1)C(=O)O,0.0000151,CHEMBL 35
+CHEMBL513909,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(C(=O)NC4CCN(C)CC4)cc3OC)nc2N1C1CCCC1,0.0936,CHEMBL 35
+CHEMBL5205728,FC(F)(F)c1c(CN2CCC(c3ccc([18F])cc3Cl)CC2)ccn2c(CC3CC3)nnc12,0.12,CHEMBL 35
+CHEMBL4209316,CNc1nc(Nc2ccc(-n3cnc(C)n3)c(OC)c2)nc2c1CC[C@H]2c1ccc(F)cc1,0.013,CHEMBL 35
+CHEMBL2103870,Cc1ccc(NC(=O)C2(c3ccc4c(c3)OC(F)(F)O4)CC2)nc1-c1cccc(C(=O)O)c1,0.000045,CHEMBL 35
+CHEMBL4470860,Cc1nc2c(-c3nnc[nH]3)cc(-c3ccnc(N)c3F)cc2n1-c1ccnc2c(F)ccc(F)c12,0.072,CHEMBL 35
+CHEMBL3544964,Cn1nccc1Nc1nccc(-c2ccn([C@H](CO)c3ccc(Cl)c(F)c3)c(=O)c2)n1,0.056,CHEMBL 35
+CHEMBL4111091,C[C@@H]1CN(Cc2ccc3c(-c4cnn(C)c4)cc(C(N)=O)nc3c2)C[C@H](C(F)(F)F)O1,0.043,CHEMBL 35
+CHEMBL1272,CCOc1cc(CC(=O)N[C@@H](CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,0.000124,CHEMBL 35
+CHEMBL5091825,OCCOCc1cn(CCNc2nonc2/C(=N/O)Nc2ccc(F)c(Br)c2)nn1,0.0763,CHEMBL 35
+CHEMBL4557670,C[C@H]1SC(N)=N[C@](C)(c2cc(NC(=O)c3cnc(OCF)cn3)ccc2F)[C@H]1F,0.12,CHEMBL 35
+CHEMBL3657855,O=C(NS(=O)(=O)N1CCC1)c1cc(C2CC2)c(OCC23CC4CC(CC(C4)C2)C3)cc1F,0.00025,CHEMBL 35
+Actisomide,O=C1[C@](CCN(C(C)C)C(C)C)(c2ccccc2)[C@@H]2N(C(C)=N1)CCCC2,0.6556,10.1021/acs.jcim.2c00318
+Almotriptan,S(=O)(=O)(Cc1cc2c(CCN(C)C)c[nH]c2cc1)N1CCCC1,0.6989,10.1021/acs.jcim.2c00318
+Amphotericin B,O=C(O)[C@@H]1[C@@H](O)C[C@]2(O)O[C@H]1C[C@@H](O[C@H]1[C@@H](O)[C@@H](N)[C@H](O)[C@@H](C)O1)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@H](C)[C@@H](O)[C@@H](C)[C@H](C)OC(=O)C[C@H](O)C[C@H](O)CC[C@@H](O)[C@H](O)C[C@H](O)C2,0.0102,10.1021/acs.jcim.2c00318
+Antipyrine,O=C1N(N(C)C(C)=C1)c1ccccc1,0.9083,10.1021/acs.jcim.2c00318
+Atenolol,O=C(N)Cc1ccc(OCC(O)CNC(C)C)cc1,0.7837,10.1021/acs.jcim.2c00318
+Atropine,O=C(OC1C[C@@H]2N(C)[C@H](C1)CC2)C(CO)c1ccccc1,0.7779,10.1021/acs.jcim.2c00318
+Aztreom,S(=O)(=O)(O)N1[C@@H](C)[C@H](NC(=O)/C(=N\OC(C(=O)O)(C)C)/c2nc(N)sc2)C1=O,0.53,10.1021/acs.jcim.2c00318
+Betamipron,O=C(O)CCNC(=O)c1ccccc1,0.28,10.1021/acs.jcim.2c00318
+Bisoprolol,O(C(C)C)CCOCc1ccc(OCC(O)CNC(C)C)cc1,0.75,10.1021/acs.jcim.2c00318
+Bupivacaine,O=C(Nc1c(C)cccc1C)C1N(CCCC)CCCC1,0.051,10.1021/acs.jcim.2c00318
+Caffeine,O=C1N(C)C(=O)c2n(C)cnc2N1C,0.9837,10.1021/acs.jcim.2c00318
+Carumom,S(=O)(=O)(O)N1[C@H](COC(=O)N)[C@H](NC(=O)/C(=N\OCC(=O)O)/c2nc(N)sc2)C1=O,0.76,10.1021/acs.jcim.2c00318
+Cefazolin,S(CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cn3nnnc3)[C@H]2SC1)c1sc(C)nn1,0.08,10.1021/acs.jcim.2c00318
+Cefmetazole,S(CC#N)CC(=O)N[C@]1(OC)C(=O)N2C(C(=O)O)=C(CSc3n(C)nnn3)CS[C@H]12,0.34,10.1021/acs.jcim.2c00318
+Cefodizime,S(CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OC)/c3nc(N)sc3)[C@H]2SC1)c1sc(CC(=O)O)c(C)n1,1,10.1021/acs.jcim.2c00318
+Cefoperazone,S(CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](NC(=O)N3C(=O)C(=O)N(CC)CC3)c3ccc(O)cc3)[C@H]2SC1)c1n(C)nnn1,0.2744,10.1021/acs.jcim.2c00318
+Cefotetan,S(CC1=C(C(=O)O)N2C(=O)[C@@](OC)(NC(=O)C3SC(=C(C(=O)O)C(=O)N)S3)[C@H]2SC1)c1n(C)nnn1,0.13,10.1021/acs.jcim.2c00318
+Cefozopran,O=C(N[C@@H]1C(=O)N2C(C(=O)[O-])=C(Cn3c4[n+](nccc4)cc3)CS[C@H]12)/C(=N\OC)/c1nc(N)sn1,0.9,10.1021/acs.jcim.2c00318
+Cefpiramide,S(CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](NC(=O)C=3C(=O)C=C(C)NC=3)c3ccc(O)cc3)[C@H]2SC1)c1n(C)nnn1,0.07,10.1021/acs.jcim.2c00318
+Cefpirome,O=C(N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[n+]3c4c(ccc3)CCC4)CS[C@H]12)/C(=N\OC)/c1nc(N)sc1,0.4458,10.1021/acs.jcim.2c00318
+Ceftazidime,O(/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CS[C@H]12)/c1nc(N)sc1)C(C(=O)O)(C)C,0.9451,10.1021/acs.jcim.2c00318
+Ceftizoxime,O=C(N[C@@H]1C(=O)N2C(C(=O)O)=CCS[C@H]12)/C(=N\OC)/c1nc(N)sc1,0.662,10.1021/acs.jcim.2c00318
+Ceftriaxone,S(CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OC)/c3nc(N)sc3)[C@H]2SC1)C=1N(C)NC(=O)C(=O)N=1,0.0487,10.1021/acs.jcim.2c00318
+Ciprofloxacin,Fc1c(N2CCNCC2)cc2N(C3CC3)C=C(C(=O)O)C(=O)c2c1,0.5505,10.1021/acs.jcim.2c00318
+Citalopram,Fc1ccc(C2(CCCN(C)C)OCc3c2ccc(C#N)c3)cc1,0.3989,10.1021/acs.jcim.2c00318
+Clozepam,Clc1c(C2=NCC(=O)Nc3c2cc([N+](=O)[O-])cc3)cccc1,0.1213,10.1021/acs.jcim.2c00318
+Diclofec,Clc1c(Nc2c(CC(=O)O)cccc2)c(Cl)ccc1,0.0042,10.1021/acs.jcim.2c00318
+Dolasetron,O=C(OC1C[C@H]2N3C(C1)CC(C(=O)C3)C2)c1c2c([nH]c1)cccc2,0.5,10.1021/acs.jcim.2c00318
+Doripenem,S(=O)(=O)(NC[C@H]1[NH2+]C[C@@H](SC=2[C@H](C)[C@@H]3[C@@H]([C@H](O)C)C(=O)N3C=2C(=O)[O-])C1)N,0.94,10.1021/acs.jcim.2c00318
+Erythromycin,O([C@@H]1[C@@H](C)[C@H](O[C@@H]2O[C@@H](C)[C@H](O)[C@@](OC)(C)C2)[C@@H](C)C(=O)O[C@H](CC)[C@](O)(C)[C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@]1(O)C)[C@H]1[C@H](O)[C@@H](N(C)C)C[C@@H](C)O1,0.5648,10.1021/acs.jcim.2c00318
+Ethinylestradiol,Oc1cc2c([C@@H]3[C@H]([C@H]4[C@@](C)([C@](O)(C#C)CC4)CC3)CC2)cc1,0.0099,10.1021/acs.jcim.2c00318
+Etoposide,O([C@H]1[C@H](O)[C@@H](O)[C@@H]2O[C@H](C)OC[C@H]2O1)[C@H]1[C@@H]2[C@@H]([C@H](c3cc(OC)c(O)c(OC)c3)c3c1cc1OCOc1c3)C(=O)OC2,0.0051,10.1021/acs.jcim.2c00318
+Famotidine,S(=O)(=O)(N=C(N)CCSCc1nc(N=C(N)N)sc1)N,0.13,10.1021/acs.jcim.2c00318
+Fleroxacin,FCCN1c2c(F)c(N3CCN(C)CC3)c(F)cc2C(=O)C(C(=O)O)=C1,0.6072,10.1021/acs.jcim.2c00318
+Furosemide,Clc1c(S(=O)(=O)N)cc(C(=O)O)c(NCc2occc2)c1,0.0289,10.1021/acs.jcim.2c00318
+Gabapentin,O=C(O)CC1(CN)CCCCC1,0.02,10.1021/acs.jcim.2c00318
+Garenoxacin,FC(F)Oc1c(-c2cc3c([C@@H](C)NC3)cc2)ccc2C(=O)C(C(=O)O)=CN(C3CC3)c12,0.19,10.1021/acs.jcim.2c00318
+Gatifloxacin,Fc1c(N2CC(C)[NH2+]CC2)c(OC)c2N(C3CC3)C=C(C(=O)[O-])C(=O)c2c1,0.83,10.1021/acs.jcim.2c00318
+Gavestinel,Clc1c2c(/C=C/C(=O)Nc3ccccc3)c(C(=O)[O-])[nH]c2cc(Cl)c1,0.03,10.1021/acs.jcim.2c00318
+Imatinib,O=C(Nc1cc(Nc2nc(-c3cnccc3)ccn2)c(C)cc1)c1ccc(CN2CCN(C)CC2)cc1,0.112,10.1021/acs.jcim.2c00318
+Imipenem,S(CC/N=C/N)C1=C(C(=O)O)N2C(=O)[C@H]([C@H](O)C)[C@H]2C1,0.975,10.1021/acs.jcim.2c00318
+Indivir,O=C(N[C@@H]1[C@H](O)Cc2c1cccc2)[C@@H](C[C@H](O)CN1[C@H](C(=O)NC(C)(C)C)CN(Cc2cnccc2)CC1)Cc1ccccc1,0.3,10.1021/acs.jcim.2c00318
+Inogatran,O=C(O)CN[C@@H](C(=O)N1[C@H](C(=O)NCCCN=C(N)N)CCCC1)CC1CCCCC1,0.76,10.1021/acs.jcim.2c00318
+Irinotecan,O=C(Oc1cc2c(CC)c3c(nc2cc1)C=1N(C(=O)C2=C([C@@](O)(CC)C(=O)OC2)C=1)C3)N1CCC(N2CCCCC2)CC1,0.1974,10.1021/acs.jcim.2c00318
+L-692429,O=C(N[C@H]1C(=O)N(Cc2ccc(-c3c(-c4n[nH]nn4)cccc3)cc2)c2c(cccc2)CC1)CC(N)(C)C,0.06,10.1021/acs.jcim.2c00318
+Lidocaine,O=C(Nc1c(C)cccc1C)CN(CC)CC,0.392,10.1021/acs.jcim.2c00318
+Meropenem,S([C@H]1C[C@@H](C(=O)N(C)C)[NH2+]C1)C=1[C@H](C)[C@@H]2[C@@H]([C@H](O)C)C(=O)N2C=1C(=O)[O-],0.6661,10.1021/acs.jcim.2c00318
+Metoprolol,O(CCc1ccc(OCC(O)CNC(C)C)cc1)C,0.8245,10.1021/acs.jcim.2c00318
+Midazolam,Clc1cc2C(c3c(F)cccc3)=NCc3n(c(C)nc3)-c2cc1,0.1462,10.1021/acs.jcim.2c00318
+Morphine,O[C@@H]1[C@@H]2Oc3c(O)ccc4c3[C@@]32[C@H]([C@H](N(C)CC3)C4)C=C1,0.81,10.1021/acs.jcim.2c00318
+Moxalactam,S(CC1=C(C(=O)O)N2C(=O)[C@@](OC)(NC(=O)C(C(=O)O)c3ccc(O)cc3)[C@H]2OC1)c1n(C)nnn1,1,10.1021/acs.jcim.2c00318
+Moxifloxacin,Fc1c(N2C[C@H]3NCCC[C@H]3C2)c(OC)c2N(C3CC3)C=C(C(=O)O)C(=O)c2c1,0.62,10.1021/acs.jcim.2c00318
+Nicardipine,O=[N+]([O-])c1cc(C2C(C(=O)OCCN(Cc3ccccc3)C)=C(C)NC(C)=C2C(=O)OC)ccc1,0.06,10.1021/acs.jcim.2c00318
+Nimodipine,O=[N+]([O-])c1cc(C2C(C(=O)OC(C)C)=C(C)NC(C)=C2C(=O)OCCOC)ccc1,0.095,10.1021/acs.jcim.2c00318
+Ofloxacin,Fc1c(N2CC[NH+](C)CC2)c2OCC(C)N3c2c(C(=O)C(C(=O)[O-])=C3)c1,0.71,10.1021/acs.jcim.2c00318
+Paclitaxel,O=C(O[C@@H]1C(C)=C2[C@@H](OC(=O)C)C(=O)[C@]3(C)[C@@H](O)C[C@@H]4[C@](OC(=O)C)([C@H]3[C@H](OC(=O)c3ccccc3)[C@@](O)(C2(C)C)C1)CO4)[C@H](O)[C@@H](NC(=O)c1ccccc1)c1ccccc1,0.0395,10.1021/acs.jcim.2c00318
+Panipenem,S([C@@H]1C/[N+](=C(/N)\C)/CC1)C1=C(C(=O)[O-])N2C(=O)[C@H]([C@H](O)C)[C@H]2C1,0.93,10.1021/acs.jcim.2c00318
+Pefloxacin,Fc1c(N2CCN(C)CC2)cc2N(CC)C=C(C(=O)O)C(=O)c2c1,0.21,10.1021/acs.jcim.2c00318
+Phencyclidine,N1(C2(c3ccccc3)CCCCC2)CCCCC1,0.3143,10.1021/acs.jcim.2c00318
+Piperacillin,O=C(N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12)[C@H](NC(=O)N1C(=O)C(=O)N(CC)CC1)c1ccccc1,0.95,10.1021/acs.jcim.2c00318
+Pirmenol,OC(CCCN1[C@@H](C)CCC[C@H]1C)(c1ncccc1)c1ccccc1,0.4199,10.1021/acs.jcim.2c00318
+Prednisone,O=C(CO)[C@]1(O)[C@]2(C)[C@H]([C@H]3[C@@H]([C@]4(C)C(=CC(=O)C=C4)CC3)C(=O)C2)CC1,0.2612,10.1021/acs.jcim.2c00318
+Propranolol,O(CC(O)CNC(C)C)c1c2c(ccc1)cccc2,0.03,10.1021/acs.jcim.2c00318
+Quinidine,O(C)c1cc2c([C@H](O)[C@@H]3N4C[C@H](C=C)[C@H](C3)CC4)ccnc2cc1,0.2027,10.1021/acs.jcim.2c00318
+Recaim,O=C(NCCCNC(C)C)Nc1c(C)cccc1C,0.69,10.1021/acs.jcim.2c00318
+Remikiren,S(=O)(=O)(C(C)(C)C)C[C@H](C(=O)N[C@H](C(=O)N[C@H]([C@@H](O)[C@@H](O)C1CC1)CC1CCCCC1)Cc1[nH]cnc1)Cc1ccccc1,0.1665,10.1021/acs.jcim.2c00318
+Ribavirin,O=C(N)c1nn([C@H]2[C@H](O)[C@H](O)[C@@H](CO)O2)cn1,0.4973,10.1021/acs.jcim.2c00318
+Ritipenem,O=C(OCC1=C(C(=O)O)N2C(=O)[C@H]([C@H](O)C)[C@H]2S1)N,0.56,10.1021/acs.jcim.2c00318
+Ro25-6833,FC(F)(F)CN1C(=O)/C(=C/C2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)/C(=N\O)/c4nc(N)sc4)[C@H]3SC2)/CC1,0.05,10.1021/acs.jcim.2c00318
+Stavudine,O=C1N([C@@H]2O[C@H](CO)C=C2)C=C(C)C(=O)N1,0.9,10.1021/acs.jcim.2c00318
+Sulfadiazine,S(=O)(=O)(Nc1ncccn1)c1ccc(N)cc1,0.4629,10.1021/acs.jcim.2c00318
+Sulfinpyrazone,[SH0](=O)(CCC1C(=O)N(N(c2ccccc2)C1=O)c1ccccc1)c1ccccc1,0.0185,10.1021/acs.jcim.2c00318
+Susalimod,S(=O)(=O)(Nc1c(C)cccn1)c1ccc(C#Cc2cc(C(=O)O)c(O)cc2)cc1,0.003,10.1021/acs.jcim.2c00318
+Tacrolimus,O(C)[C@H]1[C@H](O)CC[C@@H](/C=C(\C)/[C@@H]2[C@H](C)[C@@H](O)CC(=O)[C@H](CC=C)/C=C(\C)/C[C@H](C)C[C@H](OC)[C@@H]3[C@@H](OC)C[C@@H](C)[C@](O)(C(=O)C(=O)N4[C@H](C(=O)O2)CCCC4)O3)C1,0.0042,10.1021/acs.jcim.2c00318
+Theophylline,O=C1N(C)C(=O)c2[nH]cnc2N1C,0.684,10.1021/acs.jcim.2c00318
+Tiazofurin,O=C(N)c1nc([C@H]2[C@H](O)[C@H](O)[C@@H](CO)O2)sc1,1,10.1021/acs.jcim.2c00318
+Tomopenem,S([C@@H]1CN(C)[C@H](C(=O)N2C[C@@H](NC(=O)CN=C(N)N)CC2)C1)C=1[C@H](C)[C@@H]2[C@@H]([C@H](O)C)C(=O)N2C=1C(=O)O,0.85,10.1021/acs.jcim.2c00318
+Topotecan,O=C1[C@](O)(CC)C2=C(C(=O)N3C(c4nc5c(c(CN(C)C)c(O)cc5)cc4C3)=C2)CO1,0.8,10.1021/acs.jcim.2c00318
+Trimetrexate,O(C)c1c(OC)cc(NCc2c(C)c3c(N)nc(N)nc3cc2)cc1OC,0.1,10.1021/acs.jcim.2c00318
+Trovafloxacin,Fc1c(N2c3nc(N4C[C@H]5C([NH3+])[C@H]5C4)c(F)cc3C(=O)C(C(=O)[O-])=C2)ccc(F)c1,0.34,10.1021/acs.jcim.2c00318
+TZP-101,Fc1ccc(C[C@@H]2C(=O)NCCCc3c(O[C@H](C)CN[C@H](C(=O)N(C)[C@H](C)C(=O)N2)C2CC2)cccc3)cc1,0.17,10.1021/acs.jcim.2c00318
+Valproic Acd,O=C(O)CCCCCCCCCCCCCCCCCCC,0.22,10.1021/acs.jcim.2c00318
+Venlafaxine,O(C)c1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,0.708,10.1021/acs.jcim.2c00318
+Verapamil,O(C)c1c(OC)ccc(C(C#N)(C(C)C)CCCN(CCc2cc(OC)c(OC)cc2)C)c1,0.341,10.1021/acs.jcim.2c00318
+Vildagliptin,O=C(CNC12CC3(O)CC(C1)CC(C3)C2)N1[C@H](C#N)CCC1,0.9597,10.1021/acs.jcim.2c00318
+CHEMBL1017,O=C(O)c1c(-c2ccc(Cn3c(CCC)nc4c(C)cc(-c5n(C)c6c(n5)cccc6)cc34)cc2)cccc1,0.008,10.1021/acs.jcim.2c00318
+CHEMBL580,Clc1c(C2=NC(O)C(=O)Nc3c2cc(Cl)cc3)cccc1,0.103,10.1021/acs.jcim.2c00318
+CHEMBL6,Clc1ccc(C(=O)n2c(C)c(CC(=O)O)c3c2ccc(OC)c3)cc1,0.005,10.1021/acs.jcim.2c00318
