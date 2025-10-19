@@ -266,7 +266,7 @@ def main(args,config,tokenizer):
     loss = nn.MSELoss(reduction='none')
     scheduler = CosineAnnealingLR(optimizer,T_max=config['schedular']['epochs'],eta_min=config['schedular']['min_lr'])
 
-    os.makedirs(f"optimized_{args.weight_ratio}_{pretrain_config['dropout']}",exist_ok=True)
+    os.makedirs(f"Result",exist_ok=True)
     for index,(train_loader,valid_loader) in enumerate(fold_datasets):
 
         # 初始化
@@ -302,19 +302,19 @@ def main(args,config,tokenizer):
                 best_epoch = epoch
                 patience = 0  # 重置 patience
                 best_weights = weights
-                torch.save(model.state_dict(), f"optimized_{args.weight_ratio}_{pretrain_config['dropout']}/fintune_{index}_fold_model.pt")
+                torch.save(model.state_dict(), f"Model/Finetune/fintune_{index}_fold_model.pt")
             else:
                 patience += 1
             if patience > stop_time:
                 break
 
-        model.load_state_dict(torch.load(f"optimized_{args.weight_ratio}_{pretrain_config['dropout']}/fintune_{index}_fold_model.pt"))
+        model.load_state_dict(torch.load(f"Model/Finetune/fintune_{index}_fold_model.pt"))
         _, fold_error, gmfe, afe, mfe, bias, rmse_r2,test_pearson = valid(model, test_loader, loss, best_epoch, args, best_weights)
         test_res = calculate_metrics(args, fold_error, gmfe, afe, mfe, bias, rmse_r2, test_pearson)
 
-        train_outcome[best_epoch].to_csv(f"optimized_{args.weight_ratio}_{pretrain_config['dropout']}/fintune_{index}_train.csv",index=False)
-        valid_outcome[best_epoch].to_csv(f"optimized_{args.weight_ratio}_{pretrain_config['dropout']}/fintune_{index}_valid.csv",index=False)
-        test_res.to_csv(f"optimized_{args.weight_ratio}_{pretrain_config['dropout']}/fintune_{index}_test.csv",index=False)
+        train_outcome[best_epoch].to_csv(f"Result/fintune_{index}_train.csv",index=False)
+        valid_outcome[best_epoch].to_csv(f"Result/fintune_{index}_valid.csv",index=False)
+        test_res.to_csv(f"Result/fintune_{index}_test.csv",index=False)
 
 if __name__ == '__main__':
     parser = ArgumentParser()
@@ -339,7 +339,7 @@ if __name__ == '__main__':
     #param settings
     tokenizer = Mol_Tokenizer('../Data/vocab_token.json')
     pretrain_config = {'median': {'name': 'Median', 'num_layers': 6, 'num_heads': 8, 'd_model': 512,'dff':512},
-                       'input_vocab_size':tokenizer.get_vocab_size,'dropout':0.1,'embed_dim':256,'temp':0.2,
+                       'input_vocab_size':tokenizer.get_vocab_size,'dropout':0.2,'embed_dim':256,'temp':0.2,
                        'task_num':args.task_num,
                        'schedular': {'sched': 'cosine', 'lr': args.lr, 'epochs': args.epoch, 'min_lr': args.min_lr,
                                      'decay_rate': 1, 'warmup_lr': 0.5e-5, 'warmup_epochs': 1, 'cooldown_epochs': 0},
@@ -352,14 +352,6 @@ if __name__ == '__main__':
     else:
         print('cpu')
         args.device = torch.device('cpu')
-    #mp.set_start_method('spawn')  # 关键设置
-    weight_ratios = [0.1]
-    dropouts = [0.2]
 
-    #product()生成所有超参数的笛卡尔积组合
-    param_combination = list(product(weight_ratios,dropouts))
-    for weight_ratio,dropout in param_combination:
-        args.weight_ratio = weight_ratio
-        pretrain_config['dropout'] = dropout
-        main(args,pretrain_config,tokenizer)
+    main(args,pretrain_config,tokenizer)
 
