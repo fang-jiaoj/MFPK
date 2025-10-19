@@ -24,5 +24,5 @@ python MFPK_predict.py
 This script will load all five pre-trained MFPK models and generate average prediction results for the compounds. The predicted multi-species PK parameters and overall metrics for each compound will be saved to the following directory: `Result/test_datasets_prediction/`
 
 ## License
-This project is licensed under the [**MIT License**](License.txt)
+This project is licensed under the [**MIT License**](https://github.com/fang-jiaoj/MFPK/blob/main/LICENSE))
 
