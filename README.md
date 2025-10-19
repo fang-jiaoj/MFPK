@@ -5,6 +5,20 @@ MFPK is a multi-fidelity transfer-learning framework for predicting intravenous 
 ## Quick Start
 👉 We strongly recommend using our [**MFPK Web Server**](https://lmmd.ecust.edu.cn/MFPK/) for new prediction.
 
+## Environment Setup
+Before you run the code, we are recommended you to create a conda environment for example:
+
+```
+conda env create -f environment.yaml
+ ```
+
+Finally activate the environment:
+
+```
+
+conda activate mfpk
+```
+
 ## Reporduce the results of MFPK
 📜 We provide raw datasets for humans (`Human_data`) and animals (`Animal_data`) in `Data/Raw_data`, along with preprocessed datasets (`multitask_datasets.csv`) in `Data/MTL_data`. To reproduce the research results, you will need to generate the feature library (.lmdb) first. However, all code is integrated in `Code/MFPK_finetune.py`. Use the following commands for training and evaluation:
 
