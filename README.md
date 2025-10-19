@@ -16,7 +16,7 @@ The best model checkpoints and prediction results will be saved under the
 - `Model/Finetune`
 - directories `Result/`
 
-For external evaluation, you should ensure that the external datasets are placed under the following directories: `../Data/`.
+For external evaluation, you should ensure that the external datasets are placed under the following directories: `/Data/`.
 
 ```
 python MFPK_predict.py
