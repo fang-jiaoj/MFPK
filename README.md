@@ -4,7 +4,7 @@ MFPK is a multi-fidelity transfer-learning framework for predicting intravenous 
 
 ## Quick Start
 👉 We strongly recommend using our [**MFPK Web Server**](https://lmmd.ecust.edu.cn/MFPK/) for new prediction.
-You can download our pre-trained datasets and models from [**Zenodo**] (https://sandbox.zenodo.org/records/414199)
+You can download our pre-trained datasets and models from [**Zenodo**](https://sandbox.zenodo.org/records/414199)
 
 ## Environment Setup
 📚 Before you run the code, we are recommended you to create a conda environment for example:
